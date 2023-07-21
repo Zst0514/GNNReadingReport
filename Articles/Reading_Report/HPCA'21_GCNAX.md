@@ -8,11 +8,11 @@ You can click here to Open the [Original Paper](../Papers/HPCA'21_GCNAX.pdf),
 
 ### 二、文章总体架构：
 
-![image-20230721005830549](C:\Users\Admin\Desktop\论文阅读\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721005830549.png)
+![image-20230721005830549](C:\Users\Admin\Desktop\Reading_Report\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721005830549.png)
 
 ### 三、文章的数据集信息：
 
-![image-20230721005845979](C:\Users\Admin\Desktop\论文阅读\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721005845979.png)
+![image-20230721005845979](C:\Users\Admin\Desktop\Reading_Report\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721005845979.png)
 
 ### 四、文章的Motivation：（Combination-first范式）
 
@@ -26,19 +26,19 @@ You can click here to Open the [Original Paper](../Papers/HPCA'21_GCNAX.pdf),
 
 #### 一般地Combination First计算范式：（不考虑Tiling）
 
-![image-20230721013737701](C:\Users\Admin\Desktop\论文阅读\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721013737701.png)
+![image-20230721013737701](C:\Users\Admin\Desktop\Reading_Report\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721013737701.png)
 
 #### 下图(a)为引入loop-tiling地矩阵乘法伪代码，(b)是在(a)基础上引入Loop Fusion的矩阵乘法伪代码
 
-![image-20230721013846536](C:\Users\Admin\Desktop\论文阅读\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721013846536.png)
+![image-20230721013846536](C:\Users\Admin\Desktop\Reading_Report\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721013846536.png)
 
 #### 下图为引入loop interchange的多种搭配
 
-![image-20230721020537112](C:\Users\Admin\Desktop\论文阅读\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721020537112.png)
+![image-20230721020537112](C:\Users\Admin\Desktop\Reading_Report\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721020537112.png)
 
 ### 六、实验结果：
 
-#### ![image-20230721020952445](C:\Users\Admin\Desktop\论文阅读\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721020952445.png)相较于HyGCN以及AWB-GCN获得了总结而言GCNAX相较于HyGCN以及AWB-GCN平均取得8.9x以及1.6x的speedup，8.1x以及2.4x的DRAM access reduction, 9.5x以及2.3x的energy savings。
+#### ![image-20230721020952445](C:\Users\Admin\Desktop\Reading_Report\Articles\Reading_Report\HPCA'21_GCNAX.assets\image-20230721020952445.png)相较于HyGCN以及AWB-GCN获得了总结而言GCNAX相较于HyGCN以及AWB-GCN平均取得8.9x以及1.6x的speedup，8.1x以及2.4x的DRAM access reduction, 9.5x以及2.3x的energy savings。
 
 ### 七、文章的问题，见([HPCA'23_GROW.md](./Articles/Reading_Report/HPCA'23_GROW.md))
 
