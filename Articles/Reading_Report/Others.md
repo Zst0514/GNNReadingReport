@@ -1,8 +1,6 @@
 ### Article List：
 
-
-
-* [1、Arxiv'23 GNNbuilder A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing](#1arxiv23-gnnbuilder-a-graph-convolutional-network-accelerator-with-runtime-workload-rebalancing)
+* [1、Arxiv'23 GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing](#1arxiv23-gnnbuilder-a-graph-convolutional-network-accelerator-with-runtime-workload-rebalancing) 
 * [2、Arxiv'23 Dynasparse Accelerating GNN Inference through Dynamic Sparsity Exploitation](#2arxiv23-dynasparse-accelerating-gnn-inference-through-dynamic-sparsity-exploitation)
 
 
@@ -10,6 +8,8 @@
 ####  1、[**Arxiv'23**] GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing
 
 >*Author: Tong Geng, Ang Li, et, al.* 	*Institute: Boston University*
+
+(You can click here to Open the [Original Paper](../Papers/Arxiv'23_GNNBuilder.pdf).)
 
 #### ——文章定位：第一个自动化的、通用的、端到端的GNN加速器生成框架。
 
@@ -26,6 +26,8 @@
 #### 2、[**Arxiv'23**] Dynasparse-Accelerating GNN Inference through Dynamic Sparsity Exploitation
 
 >*Author: Bingyi Zhang, Viktor Prasanna, et, al.* 	*Institute: UCLA* 
+
+(You can click here to Open the [Original Paper](../Papers/Arxiv'23_Dynasparse.pdf).)
 
 #### 文章核心：在预先不知道输入数据的稀疏性的情况下，通过建模计算选择出最优的计算原语(包括GEMM、SpDMM以及SPMM)和任务调度策略来加速通用的GNN inference过程。
 

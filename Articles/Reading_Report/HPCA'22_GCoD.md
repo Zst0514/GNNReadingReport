@@ -1,6 +1,6 @@
 ## GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design
 
-You can click here to Open the [Original Paper](../Papers/HPCA'22_GCoD.pdf),
+You can click here to Open the [Original Paper](../Papers/HPCA'22_GCoD.pdf).
 
 ### 一、文章定位：
 

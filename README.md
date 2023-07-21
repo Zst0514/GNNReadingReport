@@ -22,7 +22,7 @@ A reading report for Acceleration on GNN, including but not limited to related r
 
   >*Author: Tong Geng, Ang Li, et, al.* 	*Institute: Boston University*  ([MICRO'20_AWB_GCN](./Articles/Reading_Report/MICRO'20_AWB_GCN.md))
   
-* Other Papers  ([Reading_Report](./Articles/Reading_Report/Others.md))
+* **Other Papers**  ([Reading_Report](./Articles/Reading_Report/Others.md))
 
 
 ---

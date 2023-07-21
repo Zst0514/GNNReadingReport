@@ -1,6 +1,6 @@
 ## GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Effificient Graph Convolutional Neural Networks
 
-You can click here to Open the [Original Paper](../Papers/HPCA'23_GROW.pdf),
+You can click here to Open the [Original Paper](../Papers/HPCA'23_GROW.pdf).
 
 ### 一、文章定位
 

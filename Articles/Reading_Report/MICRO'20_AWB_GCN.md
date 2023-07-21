@@ -1,6 +1,6 @@
 ## AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing
 
-You can click here to Open the [Original Paper](../Papers/MICRO'20_AWB_GCN.pdf),
+You can click here to Open the [Original Paper](../Papers/MICRO'20_AWB_GCN.pdf).
 
 ### 一、文章定位
 

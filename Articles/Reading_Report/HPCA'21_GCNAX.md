@@ -1,6 +1,6 @@
 ## GCNAX: A Flexible and Energy-effificient Accelerator for Graph Convolutional Neural Networks
 
-You can click here to Open the [Original Paper](../Papers/HPCA'21_GCNAX.pdf),
+You can click here to Open the [Original Paper](../Papers/HPCA'21_GCNAX.pdf).
 
 ### 一、文章定位
 
