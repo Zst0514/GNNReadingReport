@@ -10,9 +10,9 @@
 
 **已开源**: https://anonymous.4open.science/r/gnn-builder-83B4/
 
-![image-20230721191614915](C:\Users\Admin\Desktop\Reading_Report\Articles\Reading_Report\Others.assets\image-20230721191614915.png)
+![image-20230721191614915](./Images/image-20230721191614915.png)
 
-![image-20230721191740059](C:\Users\Admin\Desktop\Reading_Report\Articles\Reading_Report\Others.assets\image-20230721191740059.png)
+![image-20230721191740059](./Images/image-20230721191740059.png)
 
 
 
