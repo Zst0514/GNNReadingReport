@@ -1,6 +1,11 @@
+### Article List：
+
+* [1、[**Arxiv'23**]  GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing](#1、[**Arxiv'23**]  GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing)
+* [2、[**Arxiv'23**] Dynasparse-Accelerating GNN Inference through Dynamic Sparsity Exploitation](#2、[**Arxiv'23**] Dynasparse-Accelerating GNN Inference through Dynamic Sparsity Exploitation)
 
 
-#### 1、[**Arxiv'23**]  GNNbuilder: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing
+
+####  1、[**Arxiv'23**]  GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing
 
 >*Author: Tong Geng, Ang Li, et, al.* 	*Institute: Boston University*
 
@@ -16,13 +21,13 @@
 
 
 
-#### 2、[**Arxiv'23**] Dynasparse Accelerating GNN Inference through Dynamic Sparsity Exploitation
+#### 2、[**Arxiv'23**] Dynasparse-Accelerating GNN Inference through Dynamic Sparsity Exploitation
 
 >*Author: Bingyi Zhang, Viktor Prasanna, et, al.* 	*Institute: UCLA* 
 
 #### 文章核心：在预先不知道输入数据的稀疏性的情况下，通过建模计算选择出最优的计算原语(包括GEMM、SpDMM以及SPMM)和任务调度策略来加速通用的GNN inference过程。
 
-##### 突出两个通用性：对于不同数据集的通用性 + 对于GNN模型的通用性
+##### 突出两点通用性：对于不同数据集的通用性 + 对于GNN模型的通用性
 
 ![image-20230721205346211](./Images/image-20230721205346211.png)
 
@@ -33,3 +38,4 @@
 #### 硬件设计：（包括三种计算模式，采用GCN相关加速器的设计。）
 
 ![image-20230721205859916](./Images/image-20230721205859916.png)
+
