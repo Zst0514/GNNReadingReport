@@ -1,7 +1,9 @@
 ### Article List：
 
-* [1、[**Arxiv'23**]  GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing](#1、[**Arxiv'23**]  GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing)
-* [2、[**Arxiv'23**] Dynasparse-Accelerating GNN Inference through Dynamic Sparsity Exploitation](#2、[**Arxiv'23**] Dynasparse-Accelerating GNN Inference through Dynamic Sparsity Exploitation)
+
+
+* [1、Arxiv'23 GNNbuilder A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing](#1arxiv23-gnnbuilder-a-graph-convolutional-network-accelerator-with-runtime-workload-rebalancing)
+* [2、Arxiv'23 Dynasparse Accelerating GNN Inference through Dynamic Sparsity Exploitation](#2arxiv23-dynasparse-accelerating-gnn-inference-through-dynamic-sparsity-exploitation)
 
 
 
