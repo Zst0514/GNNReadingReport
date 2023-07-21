@@ -7,7 +7,7 @@
 
 
 
-####  1、[**Arxiv'23**]  GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing
+####  1、[**Arxiv'23**] GNNbuilder-A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing
 
 >*Author: Tong Geng, Ang Li, et, al.* 	*Institute: Boston University*
 
